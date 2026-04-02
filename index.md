@@ -14,6 +14,7 @@ I specialize in transforming complex datasets into actionable business stories. 
 *Built an intelligent chatbot that answers questions based on YouTube video transcripts using RAG architecture.*
 * **Action:** Implemented data extraction from YouTube, vector embeddings, and a retrieval system for context-aware responses.
 * **Tools:** Python, LangChain, OpenAI/Gemini API, Vector Database.
+* ![YouTube Chatbot Demo](https://raw.githubusercontent.com/saylimunde/youtube_chatbot_using_RAG/main/youtube_chatbot.png)
 * [View Repository](https://github.com/saylimunde/youtube_chatbot_using_RAG)
 
 ### 📊 Marketing Analytics (Power BI / Tableau)
