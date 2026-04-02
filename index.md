@@ -1,7 +1,4 @@
 
-
-### Junior Data Analyst | Python | SQL | Tableau | Power BI
-
 I specialize in transforming complex datasets into actionable business stories. Based in Maharashtra, I bridge the gap between technical data science and practical business insights.
 
 ---
