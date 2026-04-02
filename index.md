@@ -10,10 +10,11 @@ I specialize in transforming complex datasets into actionable business stories. 
 * **Action:** Processed metadata for 5,000+ movies to calculate cosine similarity.
 * [View Repository](https://github.com/saylimunde/Movie-Recommendation-System)
 
-### ☁️ Weather Analysis App (API Integration)
-*Real-time data fetching and visualization.*
-* **Action:** Integrated OpenWeather API to provide live weather insights and forecasts.
-* [View Repository](https://github.com/saylimunde/Weather-App)
+### 🤖 YouTube Chatbot using RAG (Generative AI)
+*Built an intelligent chatbot that answers questions based on YouTube video transcripts using RAG architecture.*
+* **Action:** Implemented data extraction from YouTube, vector embeddings, and a retrieval system for context-aware responses.
+* **Tools:** Python, LangChain, OpenAI/Gemini API, Vector Database.
+* [View Repository](https://github.com/saylimunde/youtube_chatbot_using_RAG)
 
 ### 📊 Marketing Analytics (Power BI / Tableau)
 *Visualizing customer trends and KPI performance.*
